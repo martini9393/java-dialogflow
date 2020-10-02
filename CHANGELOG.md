@@ -1,5 +1,18 @@
 # Changelog
 
+### [2.3.1](https://www.github.com/googleapis/java-dialogflow/compare/v2.3.0...v2.3.1) (2020-10-02)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.10.0 ([#298](https://www.github.com/googleapis/java-dialogflow/issues/298)) ([51efaed](https://www.github.com/googleapis/java-dialogflow/commit/51efaed7117990071bb8b1eeaa7efded34a5a7be))
+
+
+### Documentation
+
+* update OPTIONAL annotations for some fields ([#289](https://www.github.com/googleapis/java-dialogflow/issues/289)) ([69a18ce](https://www.github.com/googleapis/java-dialogflow/commit/69a18ce3488e1bc0e63d6ca0283080830247cce4))
+* update OPTIONAL annotations for some fields. ([#305](https://www.github.com/googleapis/java-dialogflow/issues/305)) ([4b4eb67](https://www.github.com/googleapis/java-dialogflow/commit/4b4eb67cb8d4f6938f7802ce7244dcdac72fbdc7))
+
 ## [2.3.0](https://www.github.com/googleapis/java-dialogflow/compare/v2.2.0...v2.3.0) (2020-09-22)
 
 
